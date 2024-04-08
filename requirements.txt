@@ -1,6 +1,6 @@
 annotated-types==0.6.0
 anyio==3.7.1
-black==23.11.0
+black==24.3.0
 certifi==2023.11.17
 click==8.1.7
 fastapi==0.109.2
